@@ -9,4 +9,4 @@ function StringEscapist() {
         const updatedText = str.value.replace(regex, additionalChar + selectedChar);
         result.value = updatedText;
     }
-  }
+}
